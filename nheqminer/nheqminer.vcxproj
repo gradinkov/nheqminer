@@ -14,7 +14,7 @@
     <ProjectGuid>{6FF7D209-05A3-4550-93CC-211D33503719}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>nheqminer</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
