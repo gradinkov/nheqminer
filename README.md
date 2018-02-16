@@ -1,7 +1,7 @@
 # Build instructions:
 
 ### Dependencies:
-  - Boost 1.62+
+  - [Boost 1.62+](https://codeyarns.com/2014/06/06/how-to-build-boost-using-visual-studio/)
 
 ## Windows:
 
